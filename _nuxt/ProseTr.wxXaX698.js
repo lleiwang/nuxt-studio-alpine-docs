@@ -1,0 +1,1 @@
+import{k as t,b as n,c as o,a3 as r}from"./entry.cragCGoH.js";const c={};function a(e,s){return n(),o("tr",null,[r(e.$slots,"default",{},void 0,!0)])}const d=t(c,[["render",a],["__scopeId","data-v-2b9b9fb6"]]);export{d as default};
